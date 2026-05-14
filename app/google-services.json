@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578909538122",
+    "project_id": "shalenamma",
+    "storage_bucket": "shalenamma.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578909538122:android:a9d0b45819b279bcd0e3b3",
+        "android_client_info": {
+          "package_name": "com.example.shalenamma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoxxUyGFEdPdvprSlivoBa-uHpIPWdadY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
