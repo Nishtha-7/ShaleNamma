@@ -39,6 +39,7 @@ Database: Firebase Firestore / Realtime Database
 Storage: Firebase Storage
 Authentication: Firebase Auth (optional)
 📱 Screenshots
+
 <img width="419" height="842" alt="Screenshot 2026-05-14 074813" src="https://github.com/user-attachments/assets/64e1c784-8bd1-457b-98c7-86bf826448dd" />
 <img width="400" height="832" alt="Screenshot 2026-05-14 075019" src="https://github.com/user-attachments/assets/7c2c90db-e513-44bd-9074-79e83e669401" />
 <img width="398" height="839" alt="Screenshot 2026-05-14 081127" src="https://github.com/user-attachments/assets/6bf4ef82-9d6f-44c1-aeb9-fb7814bc89da" />
